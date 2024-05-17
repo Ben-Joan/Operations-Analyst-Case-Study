@@ -23,19 +23,19 @@ Your tasks as a Data Analyst include but are not limited to:
 
 ## Some Visualization Insight
 1.	Growth Rate Analysis:
-a. What is the overall growth rate of attendance for Faith Global over the past year?
+ - a. What is the overall growth rate of attendance for Faith Global over the past year?
   ![Growth rate](https://github.com/Ben-Joan/Operations-Analyst-Case-Study/blob/main/Result%20Charts%20%26%20Report/Images/Attendance_Growth.PNG)
 
 2.	Gender Analysis:
-a. How does attendance vary between male and female attendees across all branches?
+ - a. How does attendance vary between male and female attendees across all branches?
   ![Gender Analysis](https://github.com/Ben-Joan/Operations-Analyst-Case-Study/blob/main/Result%20Charts%20%26%20Report/Images/Gender.PNG)
 
 3.	Age Group Analysis:
-a. What is the attendance distribution among different age groups (e.g., kids, teenagers, adults) across branches?
+ - a. What is the attendance distribution among different age groups (e.g., kids, teenagers, adults) across branches?
   ![Age-group analyis](https://github.com/Ben-Joan/Operations-Analyst-Case-Study/blob/main/Result%20Charts%20%26%20Report/Images/Age-group.PNG)
 
 5.	Branch Comparison:
-a. How do attendance numbers compare between branches located in Nigeria and those in other countries?
+ - a. How do attendance numbers compare between branches located in Nigeria and those in other countries?
   ![Branch Comparison](https://github.com/Ben-Joan/Operations-Analyst-Case-Study/blob/main/Result%20Charts%20%26%20Report/Images/country_growth.PNG)
 
 [more insights](https://github.com/Ben-Joan/Operations-Analyst-Case-Study/blob/main/Result%20Charts%20%26%20Report/Enhancing%20Strategic%20Decision%20Making%20at%20Faith%20Global%20Analysis%20Report.docx)
